@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors                 = ["Start Bootstrap"]
 
   spec.summary                 = %q{Data analysts is a one page Bootstrap portfolio theme for data analytics.}
-  spec.homepage                = "https://github.com/jeromelachaud/data analytics-theme"
+  spec.homepage                = "https://github.com/makenziewilson/data analytics-theme"
   spec.licenses                = ["MIT"]
 
   spec.metadata["plugin_type"] = "theme"
