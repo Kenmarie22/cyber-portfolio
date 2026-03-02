@@ -1,17 +1,17 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name                    = "Data analysis-theme-jekyll"
-  spec.version                 = "1.0.1"
-  spec.authors                 = ["Start Bootstrap"]
+  spec.name = "Data analysis-theme-jekyll"
+  spec.version = "1.0.1"
+  spec.authors = ["Start Bootstrap"]
 
-  spec.summary                 = %q{Data analysts is a one page Bootstrap portfolio theme for data analytics.}
-  spec.homepage                = "https://github.com/makenziewilson/data analytics-theme"
-  spec.licenses                = ["MIT"]
+  spec.summary = %q{Data analysts is a one page Bootstrap portfolio theme for data analytics.}
+  spec.homepage = "https://github.com/makenziewilson/data analytics-theme"
+  spec.licenses = ["MIT"]
 
   spec.metadata["plugin_type"] = "theme"
 
-  spec.files                   = `git ls-files -z`.split("\x0").select do |f|
+  spec.files = `git ls-files -z`.split("\x0").select do |f|
     f.match(%r{^(assets|_(includes|layouts|posts)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
   end
 
