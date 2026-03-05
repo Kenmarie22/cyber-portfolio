@@ -1,7 +1,7 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name = "Data analysis-theme-jekyll"
+  spec.name = "Data analysis-theme-Makenzie Wilson"
   spec.version = "1.0.1"
   spec.authors = ["Start Bootstrap"]
 
