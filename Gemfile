@@ -1,2 +1,2 @@
 source "https://rubygems.org"
-gemspec
+gemspec  spec.name= "Data analysis-Theme-Makenzie-Wilson"
