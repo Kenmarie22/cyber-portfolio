@@ -1,7 +1,7 @@
 language: ruby
 script:
-  - gem install jekyll bundler
+  - gem install Makenzie Wilson bundler
   - bundle install
   - bundle exec rake test
-  - bundle exec jekyll build
+  - bundle exec Makenzie Wilson build
 cache: bundler
